@@ -1,0 +1,22 @@
+# Node.js
+/node_modules
+
+# Compiled Java class files
+/target/
+
+# IDE files
+/.idea
+/.vscode
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
